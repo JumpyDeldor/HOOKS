@@ -9,4 +9,4 @@ pre-commit
 
 pre-recieve
 
-![image](https://user-images.githubusercontent.com/46585271/152109950-e0115917-487b-4c40-8815-40c827a2dfd5.png)
+![image](https://user-images.githubusercontent.com/46585271/152110358-9cc7ffe4-375b-4afb-b08c-e76c4b016691.png)

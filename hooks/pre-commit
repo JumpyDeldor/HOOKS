@@ -1,0 +1,4 @@
+#!C:/Users/Deldor/AppData/Local/Programs/Python/Python38-32/python.exe
+
+import subprocess
+subprocess.run("black . --exclude venv", shell=False)

@@ -10,6 +10,6 @@ with open(sys.argv[1], 'r') as os:
     msg = os.read()
 
 
-if not re.match(commit_pattern, msg):
+if not re.match(commit_pattern, msg): 
     print('Incorrect commit')
     sys.exit(-1)
